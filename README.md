@@ -1,8 +1,6 @@
 <h1 align="center">Hello 👋, My name is Godsheritage</h1>
 <h3 align="center">I am a Front-end focused full-stack developer with experience working with, HTML5, CSS and javascript. I really enjoy working with javascript and its frameworks like react, vue and node, I also work with wordpress and its customised themes, In my spare time i work with wireframes and UI/UX design in general as I also have a flare for design. You can check out my linkedn at: https://www.linkedin.com/in/godsheritage-adeoye</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=godsheritage" alt="godsheritage" /></a> </p>
-
 - 🔭 I’m currently working on **My Portfolio**
 
 - 👨‍💻 All of my projects are available at [www.https://godsheritage.guru](www.https://godsheritage.guru)
