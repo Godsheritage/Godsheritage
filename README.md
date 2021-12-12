@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Godsheritage</h1>
+<h1 align="center">Hello 👋, My name is Godsheritage</h1>
 <h3 align="center">I am a front-end focused full stack eveloper with years of experience in working with, HTML5, CSS and javascript, i really enjoy working with javascript and its freameworks like react, vue and node, I also work with wordpress and its customised themes, In my spare time i work with wireframes and UI/UX design in general as I also have a flare for design. You can check out my linkedn at: https://www.linkedin.com/in/godsheritage-adeoye</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=godsheritage&label=Profile%20views&color=0e75b6&style=flat" alt="godsheritage" /> </p>
