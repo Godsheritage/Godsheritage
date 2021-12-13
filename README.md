@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [www.https://godsheritage.guru](www.https://godsheritage.guru)
 
-- 📫 How to reach me **adeoyegodsheritage@gmail.com**
+- 📫 How to reach me **Adeoyegodsheritage@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
