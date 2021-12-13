@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, My name is Godsheritage</h1>
+<h1 align="center">Hello 👋, My name is GodsHeritage</h1>
 <h3 align="center">I am a Front-end focused Full-Stack developer with experience working with, HTML5, CSS and javascript. I really enjoy working with javascript and its frameworks like react, vue and node, I also work with wordpress and its customised themes, In my spare time i work with wireframes and UI/UX design in general as I also have a flare for design. You can check out my linkedn at: https://www.linkedin.com/in/godsheritage-adeoye</h3>
 
 - 🔭 I’m currently working on **My Portfolio**
