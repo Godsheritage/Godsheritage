@@ -1,7 +1,7 @@
 <h1 align="center">Hello 👋, My Name is Godsheritage</h1>
 <h3 align="center">I am a Front-end focused developer with experience working with: HTML5, CSS3, Javascript, and React .I also work with WordPress and its customised themes, in my spare time i put my creative mind to task by messing around with some wireframes. You can check out my Linkedn at: https://www.linkedin.com/in/godsheritage-adeoye</h3>
 
-- 🔭 I’m currently working on **My Portfolio**
+- 🔭 I’m currently working on **on an Ecommerce Application**
 
 - 👨‍💻 All of my projects are available here
 
