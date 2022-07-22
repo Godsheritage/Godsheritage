@@ -31,13 +31,12 @@
 <br/>
 <br/>
 <br/>
+
+# 🌐 Github Stats:
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=godsheritage&show_icons=true&locale=en&layout=compact" alt="godsheritage" /></p>
 
 <p>&nbsp;<img align="center" style="width:50%" src="https://github-readme-stats.vercel.app/api?username=godsheritage&show_icons=true&locale=en" alt="godsheritage" /></p>
 
-    
-    <br>
-    <hr/>
 <i>Have a smiley day...😁</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
      
