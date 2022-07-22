@@ -4,7 +4,7 @@
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
 <p align='center'>
 </p>
-<h3 align="center">Highly motivated Full-Stack developer with experience in the MERN stack, and a passion for designing, developing, and testing scalable web applications across a range of web technologies.
+<h3 align="center">I'm Godsheritage, a highly motivated Full-Stack developer with experience in the MERN stack, and a passion for designing, developing, and testing scalable web applications across a range of web technologies.
 </h3>
 <ul>
             <li>🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.</li>
@@ -33,10 +33,7 @@
 
 
 
-    <div >
 <p><img align="left" style="margin-bottom:32px" src="https://github-readme-stats.vercel.app/api/top-langs?username=godsheritage&show_icons=true&locale=en&layout=compact" alt="godsheritage" /></p>
 
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=godsheritage&show_icons=true&locale=en" alt="godsheritage" /></p>
-</div>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=godsheritage&show_icons=true&locale=en" alt="godsheritage" /></p>
 
