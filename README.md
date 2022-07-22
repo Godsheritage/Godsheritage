@@ -24,6 +24,9 @@
 <a href="https://stackoverflow.com/users/godsheritage" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="godsheritage" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/adeoyegodsherit1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="adeoyegodsherit1" height="30" width="40" /></a>
 </p>
+<br/>
+<br/>
+<br/>
 
 
 # 💻 Tech Stack:
@@ -36,7 +39,7 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=godsheritage&show_icons=true&locale=en&layout=compact" alt="godsheritage" /></p>
 
 <p>&nbsp;<img align="center" style="width:50%" src="https://github-readme-stats.vercel.app/api?username=godsheritage&show_icons=true&locale=en" alt="godsheritage" /></p>
-
+<hr/>
 <i>Have a smiley day...😁</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
      
