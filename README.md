@@ -33,7 +33,7 @@
 
 
 
-<p><img align="left" style="margin-bottom:32px" src="https://github-readme-stats.vercel.app/api/top-langs?username=godsheritage&show_icons=true&locale=en&layout=compact" alt="godsheritage" /></p>
+<p><img align="left" style="margin-bottom:32px, width:50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=godsheritage&show_icons=true&locale=en&layout=compact" alt="godsheritage" /></p>
 
-<p>&nbsp;<img align="right" style="width:10rem" src="https://github-readme-stats.vercel.app/api?username=godsheritage&show_icons=true&locale=en" alt="godsheritage" /></p>
+<p>&nbsp;<img align="right" style="width:50%" src="https://github-readme-stats.vercel.app/api?username=godsheritage&show_icons=true&locale=en" alt="godsheritage" /></p>
 
