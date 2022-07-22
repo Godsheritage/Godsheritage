@@ -1,3 +1,9 @@
+<p align="center">
+    <img width="200" src="http://upload-gifs.s3-sa-east-1.amazonaws.com/8cf24c73-4c3e-4fcb-9aff-a05dc2f90efb_cover-thompson.png">
+</p>
+<h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
+<p align='center'>
+</p>
 <h1 align="center">Hello 👋, My Name is Godsheritage</h1>
 <h3 align="center">Highly motivated Full-Stack developer with experience in the MERN stack, and a passion for designing, developing, and testing scalable web applications across a range of web technologies.
 </h3>
