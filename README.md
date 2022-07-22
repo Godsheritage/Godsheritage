@@ -18,6 +18,7 @@
 ## Just a Snake 🐍 Eating away my Contributions...😭
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
   <hr />
+  ## Just a Snake 🐍 Eating away my Contributions...😭
 <i>Have a smiley day...😁</i><br>
 <a href="https://readme-jokes.vercel.app"><img align="center" src="https://readme-jokes.vercel.app/api" alt="README Jokes"></a>
 
