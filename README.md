@@ -29,7 +29,8 @@
 <br/>
 <br/>
 
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="godsheritage" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/godsheritage?trk=profile-badge">Godsheritage Adeoye</a></div>
+<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="godsheritage" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/godsheritage?trk=profile-badge">Godsheritage Adeoye</a></div>
+              
               
 
 # 💻 Tech Stack:
