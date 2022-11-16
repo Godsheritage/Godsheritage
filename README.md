@@ -1,4 +1,4 @@
-<p align="center">
+<p align="center"> 
     <img src="http://upload-gifs.s3-sa-east-1.amazonaws.com/8cf24c73-4c3e-4fcb-9aff-a05dc2f90efb_cover-thompson.png"> 
 </p>      
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
