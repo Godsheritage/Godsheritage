@@ -2,7 +2,7 @@
     <img src="http://upload-gifs.s3-sa-east-1.amazonaws.com/8cf24c73-4c3e-4fcb-9aff-a05dc2f90efb_cover-thompson.png">     
 </p>       
 <h1> Hello Fellow < Developers/ >! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> </h1>
-<p align='center'>      
+<p align='center'>       
 </p>     
 <h3 align="center">I'm Godsheritage, a highly motivated Full-Stack developer, Global Hackathon Winner, and Computer science major  with experience in the MERN stack, and a passion for designing, developing, and testing scalable web applications across a range of web technologies. 
 </h3>
