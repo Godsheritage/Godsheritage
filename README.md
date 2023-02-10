@@ -7,7 +7,7 @@
 <h3 align="center">I'm Godsheritage, a highly motivated Full-Stack developer, Global Hackathon Winner, and Computer science major  with experience in the MERN stack, and a passion for designing, developing, and testing scalable web applications across a range of web technologies. 
 </h3>  
        <br/>             
-<br/>           
+<br/>            
 <ul>  
             <li>🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.</li>
             <li>🎯 <b>I’m currently focusing on </b>Problem-Solving</a>, ⭐️ star my projects if you like them 🤩.</li>
