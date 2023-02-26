@@ -8,7 +8,7 @@
 </h3>   
        <br/>             
 <br/>             
-<ul>  
+<ul>   
             <li>🌱 <b>I’m currently learning</b>: Computer Science and Software Engineering.</li>
             <li>🎯 <b>I’m currently focusing on </b>Problem-Solving</a>, ⭐️ star my projects if you like them 🤩.</li>
             <li>🤔 <b>I’m currently open to</b>: SWE Job/Intership opportunites <a href="http://godsheritage.herokuapp.com/Godsheritage's%20Resume.pdf" target ="_blanck">LINK TO MY RESUME</a>.</li>
