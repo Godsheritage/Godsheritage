@@ -48,8 +48,3 @@
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
   
 
-As mentioned by David earlier, the primary objective of the submission portal is to perform various tasks, including providing detailed insights on the state of the submission queue, identifying program critical submissions and their expected arrival time, and flagging submissions requiring triage attention. After thoroughly understanding the requirements, we have developed a brief project phase chart. Please note that the chart may appear non-linear, reflecting the non-linear nature of our company's software build process.
-
-During a coffee chat with Brad, it was revealed that the first phase of this project commenced approximately 10 years ago when Mr. V envisioned the project. Since then, we have been awaiting the right pair of interns to undertake this task. Now, after the conceptualization phase, we have progressed to the design phase. In this phase, we translate our thoughts into wireframes that can be accurately visualized. The subsequent phase involves development, where we iterate on our design and transform it into functional code.
-
-Following the development phase, we move into the quality assurance phase, subjecting our application to thorough checks and tests to ensure it meets the high standards of our prestigious company. Once the QA phase is successfully completed, the web application is transferred from a development server to a production server. Finally, with all these processes finalized, we will proceed to announce our wonderful product, which I'm confident will bring joy and excitement to everyone in this room, as depicted in the picture above.
