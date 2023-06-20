@@ -48,3 +48,8 @@
 ![snake gif](https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg)
   
  
+This is the envisioned mockup for the submission portal, and thus far, we have evaluated this mockup as the one that closely resembles our ideal portal. When considering the magnitude of this project, it occurred to me that this web application would aim to cater to two main demographics of engineers. Firstly, the top-level professional engineer, like Mr. V, who generally doesn't require excessive detail but wants a general sense of the decisions his teams are making. Secondly, engineers like John Doe, who may not be at the top level but desire to know the exact status of their team's submission. This web app is designed to serve both of them excellently. 
+
+Looking at the top portion, you will find a brief summary providing an overview. Users can find total submissions with specific filters, including team filters. Additionally, tabs will display the "must fix" issue type of health status of the train. Following that, there will be a section displaying submissions made within the past day, less than five days ago, and more than five days ago. [Pause]
+
+Next, we have submission age, stack, guardian state, radar IDs, and radar keywords. On the left-side panel, the Progress Grid feature serves as an attractive point of interest. It visually presents the current status of the submission's progress in the build.
